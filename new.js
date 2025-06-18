@@ -84,7 +84,7 @@ window.addEventListener("orientationchange", () => {
   }
 
   const particlesArray = [];
-  const particleCount = 100;
+  const particleCount = 250;
 
   function initParticles() {
     particlesArray.length = 0;
